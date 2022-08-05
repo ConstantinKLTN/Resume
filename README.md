@@ -1,7 +1,7 @@
 # Клитной Константин
 <img src="img/Аватар.jpg" style="float: right;margin:0 10px 10px 0;">
 
-<a href="https://t.me/kosskafa"><img src="img/telegram%20(4).png"> <a href="https://t.me/kosskafa">Константин K</a> 
+<a href="https://t.me/kosskafa"><img src="img/telegram%20(4).png"> <a href="https://t.me/kosskafa">Константин Kosskafa</a> 
 
 <a href="https://wa.me/79081337818"><img src="img/whatsapp%20(2).png"> <a href="https://wa.me/79081337818">Константин K</a> 
 
