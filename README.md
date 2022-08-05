@@ -7,7 +7,7 @@
 
 <a href="mailto:kosskafa@gmail.com"><img src="img/email%20(1).png">&nbsp;<a href="mailto:kosskafa@gmail.com">kosskafa@gmail.com</a>
 
-<a href="tel:+79081337818"><img src="img/Phone%20(1).png">&nbsp;<a href="tel:+79081337818">+7(908)133-78-18</a>
+<a href="tel:+79081337818"><img src="img/Phone%20(1).png"><a href="tel:+79081337818">+7(908)133-78-18</a>
 
 16.07.1982г
 
