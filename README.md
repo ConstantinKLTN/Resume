@@ -1,4 +1,3 @@
-# Клитной Константин
 <img src="img/Аватар.jpg" style="float: right;margin:0 10px 10px 0;">
 
 <a href="https://t.me/kosskafa"><img src="img/telegram%20(4).png"> <a href="https://t.me/kosskafa">Константин Kosskafa</a> 
